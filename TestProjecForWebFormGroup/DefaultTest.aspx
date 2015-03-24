@@ -11,6 +11,9 @@
     <div>
         <asp:Image ID="Image1" 
             width="500px" Height="500px" ImageUrl="http://ao-upload-prod.s3.amazonaws.com/wp-content/uploads/2013/11/epic-fail-gifs-waterslide-fail.gif" runat="server" />
+        <br />
+        <br />
+        <asp:Image ID="Image2" width="700px" Height="400px" runat="server" ImageUrl="http://images2.fanpop.com/image/photos/13900000/Pretty-Dogs-in-Garden-dogs-13905929-1920-1200.jpg"/>
     </div>
     </form>
 </body>
