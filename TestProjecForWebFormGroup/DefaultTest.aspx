@@ -15,6 +15,10 @@
         <br />
         <asp:Image ID="Image2" width="700px" Height="400px" runat="server" ImageUrl="http://images2.fanpop.com/image/photos/13900000/Pretty-Dogs-in-Garden-dogs-13905929-1920-1200.jpg"/>
         <br />
+        <br />
+        <asp:Label ID="Label1" runat="server" Text="Hello World"></asp:Label>
+    
+        <br />
         <asp:Image ID="Image3" runat="server" Width="700px" Height="400px" imageUrl="https://hellopledge.files.wordpress.com/2012/07/hello_medium-file3.jpg"/>
         
     </div>
